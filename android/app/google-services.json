@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580581167909",
+    "project_id": "sample-firebase-latest",
+    "storage_bucket": "sample-firebase-latest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580581167909:android:0c5582f0d8bb0beff300cc",
+        "android_client_info": {
+          "package_name": "com.tinu.firebase_register_and_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580581167909-9i8jt77h1258t6b0fk28bm1310n3go18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6LSz7O59Q66WY-2cMXW2siFl5yuqbnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580581167909-9i8jt77h1258t6b0fk28bm1310n3go18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
